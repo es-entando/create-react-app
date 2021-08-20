@@ -7,6 +7,6 @@ customUi: |
    <#assign wp=JspTaglibs[ "/aps-core"]>
    <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />react_app/static/css/main.a617e044.chunk.css">
    <script async src="<@wp.resourceURL />react_app/static/js/2.7d2079ff.chunk.js"></script>
-   <script async src="<@wp.resourceURL />react_app/static/js/runtime-main.475252d9.js"></script>
+   <script async src="<@wp.resourceURL />react_app/static/js/runtime-main.7de87593.js"></script>
    <script async src="<@wp.resourceURL />react_app/static/js/main.e4bc598d.chunk.js"></script>
    <my-widget />
