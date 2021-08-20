@@ -3,4 +3,3 @@ description: Create React App demo
 components:
   widgets:
     - widgets/create-react-app.yaml
-
