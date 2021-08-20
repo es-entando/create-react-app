@@ -4,10 +4,10 @@ titles:
    it: Create React App
 group: free
 customUi: |
-<#assign wp=JspTaglibs[ "/aps-core"]>
-<link rel="stylesheet" type="text/css" href="<@wp.resourceURL />create_react_app/static/css/main.a617e044.chunk.css">
-<script async src="<@wp.resourceURL />react_app/static/js/2.7896796f.chunk.js"></script>
-<script async src="<@wp.resourceURL />react_app/static/js/3.246bd1c7.chunk.js"></script>
-<script async src="<@wp.resourceURL />react_app/static/js/runtime-main.f1fd0a92.js"></script>
-<script async src="<@wp.resourceURL />react_app/static/js/main.e886c5d5.chunk.js"></script>
-<my-widget />
+   <#assign wp=JspTaglibs[ "/aps-core"]>
+   <link rel="stylesheet" type="text/css" href="<@wp.resourceURL />create_react_app/static/css/main.a617e044.chunk.css">
+   <script async src="<@wp.resourceURL />react_app/static/js/2.7896796f.chunk.js"></script>
+   <script async src="<@wp.resourceURL />react_app/static/js/3.246bd1c7.chunk.js"></script>
+   <script async src="<@wp.resourceURL />react_app/static/js/runtime-main.f1fd0a92.js"></script>
+   <script async src="<@wp.resourceURL />react_app/static/js/main.e886c5d5.chunk.js"></script>
+   <my-widget />
